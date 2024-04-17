@@ -39,9 +39,9 @@ The whitepaper is available here: https://github.com/Assetant/whitepaper/blob/cf
 - Quantity: 1,000,000,000 ASSET
 - Use: These tokens are intended for community development, marketing and promotional activities to increase awareness and adoption of the Assetant platform.
 
-### Token Liquidity Provider tokens and vesting
+### Locked tokens and vesting
 
 The token was created and fully minted, available in:
 - [Web3.world](https://web3.world/) for liquidity and use.
-- Vesting for Team and Advisors allocation(45 days lock, 1 year vesting): https://venomscan.com/accounts/0:af3faaff021ddf522be271ad38577c379a0fe3e664942bd302853232e6422883
-- Vesting for the rest of supply for 30 days (to use for liquidity, development, and more tasks): https://venomscan.com/accounts/0:820cd04b33b2aa8005869c70e65728cad81ec360e7836aad1c96f2c34b9903d8
+- 1.5 Billion Locked tokens/Vesting for Team and Advisors allocation(45 days lock, 1 year vesting): https://venomscan.com/accounts/0:af3faaff021ddf522be271ad38577c379a0fe3e664942bd302853232e6422883
+- 8.5 Billion Locked tokens/Vesting for the rest of supply for 30 days (to use for liquidity, development, and more tasks): https://venomscan.com/accounts/0:820cd04b33b2aa8005869c70e65728cad81ec360e7836aad1c96f2c34b9903d8
